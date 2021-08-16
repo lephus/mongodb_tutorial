@@ -1,0 +1,23 @@
+{
+  "name": "mongotutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "students.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/mongodb-playlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/mongodb-playlist/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/mongodb-playlist#readme",
+  "dependencies": {
+    "mocha": "^9.0.3",
+    "mongoose": "^5.13.7"
+  }
+}
